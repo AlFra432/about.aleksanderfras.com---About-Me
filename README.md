@@ -1,5 +1,5 @@
 #**about.aleksanderfras.com - About Me**
-About-me web page as seen on [about.aleksanderfras.com](http://goo.gl/C5tR5W)
+About-me web page as seen @ [about.aleksanderfras.com](http://goo.gl/C5tR5W)
 
 
 ##**Optimization**
