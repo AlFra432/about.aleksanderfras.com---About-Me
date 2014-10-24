@@ -1,0 +1,9 @@
+{
+  "name": "AFAboutPage",
+  "description": "Necessary modules for about.aleksanderfras.com front page",
+  "author": "Aleksander Fras <fras.aleksander@gmail.com>",
+  "dependencies": {
+    "font-awesome": "4.x.x"
+  },
+  "engine": "node >= 0.4.1"
+}
