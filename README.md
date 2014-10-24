@@ -3,7 +3,7 @@ About-me web page as seen on [about.aleksanderfras.com](http://goo.gl/C5tR5W)
 
 
 ##**Optimization**
-- [Css file](less/style.min.css) file has been compiled with lessc which is part of [less.js](less/less.js/). You can find original less file [here](less/style.less).
+- [Css file](less/style.min.css) file has been compiled with lessc which is part of [less.js](https://github.com/less/less.js/). You can find original less file [here](less/style.less).
 - AFlogo has been compressed lossy with [pngquant](https://github.com/pornel/pngquant). Image filesize has been reduced for almost 75%.
 - Google PageSpeed Insights [results](http://goo.gl/rGp9d8)
 
